@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="164.08977mm"
+   height="149.17255mm"
+   viewBox="0 0 164.08977 149.17255"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <rect
+       x="78.700645"
+       y="208.48767"
+       width="679.31079"
+       height="579.89948"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.769421,-68.285863)">
+    <text
+       xml:space="preserve"
+       transform="matrix(1.1099148,0,0,1.1099148,-75.942186,-218.17014)"
+       id="text1"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect1);fill:#a78bfa;stroke-width:151.181"><tspan
+         x="78.701172"
+         y="392.48828"
+         id="tspan3"><tspan
+           style="font-family:Bebas;-inkscape-font-specification:Bebas"
+           id="tspan2">Dp</tspan></tspan></text>
+  </g>
+</svg>
